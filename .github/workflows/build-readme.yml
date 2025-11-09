@@ -22,6 +22,7 @@ jobs:
       - run: python build_readme.py
       - name: Commit & Push README
         run: |
+          set -e
           if [[ -n "$(git status --porcelain README.md)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -30,3 +31,4 @@ jobs:
             git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
           else
             echo "No changes."
+          fi
