@@ -131,6 +131,17 @@
       - [2.3 덧붙인 구조의 데이터에 NMF 적용하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_4_%EC%B0%A8%EC%9B%90_%EC%B6%95%EC%86%8C%2C_%ED%8A%B9%EC%84%B1_%EC%B6%94%EC%B6%9C%2C_%EB%A7%A4%EB%8B%88%ED%8F%B4%EB%93%9C_%ED%95%99%EC%8A%B5.ipynb#2.3%20%EB%8D%A7%EB%B6%99%EC%9D%B8%20%EA%B5%AC%EC%A1%B0%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90%20NMF%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
     - [03 t-SNE를 이용한 매니폴드 학습](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_4_%EC%B0%A8%EC%9B%90_%EC%B6%95%EC%86%8C%2C_%ED%8A%B9%EC%84%B1_%EC%B6%94%EC%B6%9C%2C_%EB%A7%A4%EB%8B%88%ED%8F%B4%EB%93%9C_%ED%95%99%EC%8A%B5.ipynb#03%20t-SNE%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%A7%A4%EB%8B%88%ED%8F%B4%EB%93%9C%20%ED%95%99%EC%8A%B5)
 
+- **[03_5_군집.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb)**
+    - [01 k-평균 군집 (k-means)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb#01%20k-%ED%8F%89%EA%B7%A0%20%EA%B5%B0%EC%A7%91%20%28k-means%29)
+      - [1.1 k-평균 알고리즘 적용](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb#1.1%20k-%ED%8F%89%EA%B7%A0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A0%81%EC%9A%A9)
+      - [1.2 k-평균 알고리즘이 실패하는 경우](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb#1.2%20k-%ED%8F%89%EA%B7%A0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%20%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0)
+      - [1.3 벡터 양자화 또는 분해 메서드로서의 k-평균](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb#1.3%20%EB%B2%A1%ED%84%B0%20%EC%96%91%EC%9E%90%ED%99%94%20%EB%98%90%EB%8A%94%20%EB%B6%84%ED%95%B4%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A1%9C%EC%84%9C%EC%9D%98%20k-%ED%8F%89%EA%B7%A0)
+      - [1.4 장단점](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb#1.4%20%EC%9E%A5%EB%8B%A8%EC%A0%90)
+      - [1.5 엘보우 방법 (elbow method)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb#1.5%20%EC%97%98%EB%B3%B4%EC%9A%B0%20%EB%B0%A9%EB%B2%95%20%28elbow%20method%29)
+    - [02 병합 군집 (agglomerative clustering)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb#02%20%EB%B3%91%ED%95%A9%20%EA%B5%B0%EC%A7%91%20%28agglomerative%20clustering%29)
+      - [2.1 계층적 군집과 덴드로그램](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb#2.1%20%EA%B3%84%EC%B8%B5%EC%A0%81%20%EA%B5%B0%EC%A7%91%EA%B3%BC%20%EB%8D%B4%EB%93%9C%EB%A1%9C%EA%B7%B8%EB%9E%A8)
+      - [2.3 scikit-learn을 이용한 덴드로그램](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb#2.3%20scikit-learn%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8D%B4%EB%93%9C%EB%A1%9C%EA%B7%B8%EB%9E%A8)
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
