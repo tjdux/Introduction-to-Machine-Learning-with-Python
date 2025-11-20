@@ -151,6 +151,12 @@
         - [병합 군집으로 얼굴 데이터셋 분석하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb#%EB%B3%91%ED%95%A9%20%EA%B5%B0%EC%A7%91%EC%9C%BC%EB%A1%9C%20%EC%96%BC%EA%B5%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%20%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0)
     - [05 군집 알고리즘 요약](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03_5_%EA%B5%B0%EC%A7%91.ipynb#05%20%EA%B5%B0%EC%A7%91%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9A%94%EC%95%BD)
 
+- **[04_1_범주형_변수.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_1_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%B3%80%EC%88%98.ipynb)**
+    - [01 사용할 데이터](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_1_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%B3%80%EC%88%98.ipynb#01%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
+    - [02 원-핫-인코딩(가변수)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_1_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%B3%80%EC%88%98.ipynb#02%20%EC%9B%90-%ED%95%AB-%EC%9D%B8%EC%BD%94%EB%94%A9%28%EA%B0%80%EB%B3%80%EC%88%98%29)
+      - [2.1 문자열로 된 범주형 데이터 확인하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_1_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%B3%80%EC%88%98.ipynb#2.1%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%90%9C%20%EB%B2%94%EC%A3%BC%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+    - [02 숫자로 표현된 범주형 특성](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_1_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%B3%80%EC%88%98.ipynb#02%20%EC%88%AB%EC%9E%90%EB%A1%9C%20%ED%91%9C%ED%98%84%EB%90%9C%20%EB%B2%94%EC%A3%BC%ED%98%95%20%ED%8A%B9%EC%84%B1)
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
