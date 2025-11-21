@@ -159,6 +159,8 @@
 
 - **[04_2_OneHotEncoder와_ColumnTransformer_scikit_learn으로_범주형_변수_다루기.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_2_OneHotEncoder%EC%99%80_ColumnTransformer_scikit_learn%EC%9C%BC%EB%A1%9C_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%B3%80%EC%88%98_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb)**
 
+- **[04_3_make_column_transformer로_간편하게_ColumnTransformer_만들기.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_3_make_column_transformer%EB%A1%9C_%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C_ColumnTransformer_%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)**
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
