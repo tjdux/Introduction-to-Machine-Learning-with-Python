@@ -157,6 +157,8 @@
       - [2.1 문자열로 된 범주형 데이터 확인하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_1_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%B3%80%EC%88%98.ipynb#2.1%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%90%9C%20%EB%B2%94%EC%A3%BC%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
     - [02 숫자로 표현된 범주형 특성](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_1_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%B3%80%EC%88%98.ipynb#02%20%EC%88%AB%EC%9E%90%EB%A1%9C%20%ED%91%9C%ED%98%84%EB%90%9C%20%EB%B2%94%EC%A3%BC%ED%98%95%20%ED%8A%B9%EC%84%B1)
 
+- **[04_2_OneHotEncoder와_ColumnTransformer_scikit_learn으로_범주형_변수_다루기.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_2_OneHotEncoder%EC%99%80_ColumnTransformer_scikit_learn%EC%9C%BC%EB%A1%9C_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%B3%80%EC%88%98_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb)**
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
