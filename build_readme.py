@@ -60,7 +60,6 @@ def main():
     lines = []
     lines.append("# Machine Learning Notes (Auto TOC)\n")
     lines.append(f"- GitHub: https://github.com/{GITHUB_USER}/{GITHUB_REPO}\n")
-    lines.append("- 모든 링크는 GitHub 파일 및 내부 헤딩 섹션으로 이동합니다.\n")
 
     # === ipynb ===
     if ipynbs:
