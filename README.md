@@ -2,8 +2,6 @@
 
 - GitHub: https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python
 
-- 모든 링크는 GitHub 파일 및 내부 헤딩 섹션으로 이동합니다.
-
 ## 📓 Notebooks
 
 - **[01 소개.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/01%20%EC%86%8C%EA%B0%9C.ipynb)**
