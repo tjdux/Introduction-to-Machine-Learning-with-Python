@@ -161,6 +161,11 @@
 
 - **[04_4_구간_분할,_이산화_그리고_선형_모델,_트리_모델.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_4_%EA%B5%AC%EA%B0%84_%EB%B6%84%ED%95%A0%2C_%EC%9D%B4%EC%82%B0%ED%99%94_%EA%B7%B8%EB%A6%AC%EA%B3%A0_%EC%84%A0%ED%98%95_%EB%AA%A8%EB%8D%B8%2C_%ED%8A%B8%EB%A6%AC_%EB%AA%A8%EB%8D%B8.ipynb)**
 
+- **[04_5_상호작용과_다항식.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_5_%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EA%B3%BC_%EB%8B%A4%ED%95%AD%EC%8B%9D.ipynb)**
+    - [01 상호작용](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_5_%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EA%B3%BC_%EB%8B%A4%ED%95%AD%EC%8B%9D.ipynb#01%20%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9)
+    - [02 다항식](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_5_%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EA%B3%BC_%EB%8B%A4%ED%95%AD%EC%8B%9D.ipynb#02%20%EB%8B%A4%ED%95%AD%EC%8B%9D)
+    - [03 적용 (보스턴 주택 가격 데이터셋)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_5_%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EA%B3%BC_%EB%8B%A4%ED%95%AD%EC%8B%9D.ipynb#03%20%EC%A0%81%EC%9A%A9%20%28%EB%B3%B4%EC%8A%A4%ED%84%B4%20%EC%A3%BC%ED%83%9D%20%EA%B0%80%EA%B2%A9%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%29)
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
