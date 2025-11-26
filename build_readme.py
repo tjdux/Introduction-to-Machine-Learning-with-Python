@@ -10,6 +10,9 @@ IPYNB_GLOBS = ["**/*.ipynb"]
 MD_GLOBS    = ["**/*.md"]
 README_PATH = ROOT / "README.md"
 IGNORE_DIR_KEYWORDS = [".ipynb_checkpoints", ".git", ".github"]
+
+# "파이썬 라이브러리를 활용한 머신러닝" 책 표지 이미지
+BOOK_COVER_IMAGE_URL = "img/B3887932883_l.jpg"
 # =============
 
 def is_ignored(p: Path) -> bool:
@@ -34,8 +37,19 @@ def extract_headings_from_markdown_text(md_text: str):
     return out
 
 def github_anchor_from_title(title: str) -> str:
-    """헤딩 텍스트를 URL 인코딩해서 # 뒤에 붙임"""
-    return urllib.parse.quote(title, safe="")
+    """헤딩 텍스트를 GitHub의 자동 생성 앵커 ID 형식으로 변환"""
+    # 1. 소문자 변환
+    anchor = title.lower()
+    
+    # 2. 공백과 연속된 공백을 하이픈(-)으로 변환
+    anchor = re.sub(r'\s+', '-', anchor)
+    
+    # 3. GitHub가 보통 제거하는 특수 문자 제거
+    # 영문, 숫자, 한글(\uAC00-\uD7A3), 하이픈(-)을 제외한 모든 문자 제거
+    anchor = re.sub(r'[^\w\uAC00-\uD7A3-]+', '', anchor) 
+    
+    return anchor
+
 
 def iter_md_cells_from_ipynb(path: Path):
     try:
@@ -58,6 +72,9 @@ def main():
     mds.sort()
 
     lines = []
+    
+    lines.append(f"<p align=\"center\"><img src=\"{BOOK_COVER_IMAGE_URL}\" alt=\"파이썬 라이브러리를 활용한 머신러닝\" width=\"300\"></p>\n")
+    
     lines.append("# Machine Learning Notes (Auto TOC)\n")
     lines.append(f"- GitHub: https://github.com/{GITHUB_USER}/{GITHUB_REPO}\n")
 
@@ -73,7 +90,8 @@ def main():
             for src in iter_md_cells_from_ipynb(nb_path):
                 for lvl, htitle in extract_headings_from_markdown_text(src):
                     indent = "  " * min(lvl, 6)
-                    sub.append(f"{indent}- [{htitle}]({gh}#{github_anchor_from_title(htitle)})")
+                    anchor = github_anchor_from_title(htitle)
+                    sub.append(f"{indent}- [{htitle}]({gh}#{anchor})")
             if sub: lines.extend(sub)
             lines.append("")
 
@@ -91,7 +109,8 @@ def main():
                 continue
             for lvl, htitle in extract_headings_from_markdown_text(text):
                 indent = "  " * min(lvl, 6)
-                lines.append(f"{indent}- [{htitle}]({gh}#{github_anchor_from_title(htitle)})")
+                anchor = github_anchor_from_title(htitle)
+                lines.append(f"{indent}- [{htitle}]({gh}#{anchor})")
             lines.append("")
 
     README_PATH.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
