@@ -175,6 +175,10 @@
     - [02 모델 기반 특성 선택 (model-based selection)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_7_%ED%8A%B9%EC%84%B1_%EC%9E%90%EB%8F%99_%EC%84%A0%ED%83%9D.ipynb#02-모델-기반-특성-선택-model-based-selection)
     - [03 반복적 특성 선택 (iterative selection)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_7_%ED%8A%B9%EC%84%B1_%EC%9E%90%EB%8F%99_%EC%84%A0%ED%83%9D.ipynb#03-반복적-특성-선택-iterative-selection)
 
+- **[04_8_전문가_지식_활용.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_8_%EC%A0%84%EB%AC%B8%EA%B0%80_%EC%A7%80%EC%8B%9D_%ED%99%9C%EC%9A%A9.ipynb)**
+    - [01 POSIX 시간 사용](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_8_%EC%A0%84%EB%AC%B8%EA%B0%80_%EC%A7%80%EC%8B%9D_%ED%99%9C%EC%9A%A9.ipynb#01-posix-시간-사용)
+    - [02 전문가 지식 사용](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_8_%EC%A0%84%EB%AC%B8%EA%B0%80_%EC%A7%80%EC%8B%9D_%ED%99%9C%EC%9A%A9.ipynb#02-전문가-지식-사용)
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
