@@ -179,6 +179,16 @@
     - [01 POSIX 시간 사용](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_8_%EC%A0%84%EB%AC%B8%EA%B0%80_%EC%A7%80%EC%8B%9D_%ED%99%9C%EC%9A%A9.ipynb#01-posix-시간-사용)
     - [02 전문가 지식 사용](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/04_8_%EC%A0%84%EB%AC%B8%EA%B0%80_%EC%A7%80%EC%8B%9D_%ED%99%9C%EC%9A%A9.ipynb#02-전문가-지식-사용)
 
+- **[05_1_교차_검증.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_1_%EA%B5%90%EC%B0%A8_%EA%B2%80%EC%A6%9D.ipynb)**
+    - [01 scikit-learn의 교차 검증](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_1_%EA%B5%90%EC%B0%A8_%EA%B2%80%EC%A6%9D.ipynb#01-scikit-learn의-교차-검증)
+    - [02 교차 검증의 장점](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_1_%EA%B5%90%EC%B0%A8_%EA%B2%80%EC%A6%9D.ipynb#02-교차-검증의-장점)
+    - [03 계층별 k-겹 교차 검증과 그외 전략들](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_1_%EA%B5%90%EC%B0%A8_%EA%B2%80%EC%A6%9D.ipynb#03-계층별-k-겹-교차-검증과-그외-전략들)
+      - [3.1 교차 검증 상세 옵션](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_1_%EA%B5%90%EC%B0%A8_%EA%B2%80%EC%A6%9D.ipynb#31-교차-검증-상세-옵션)
+      - [3.2 LOOCV](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_1_%EA%B5%90%EC%B0%A8_%EA%B2%80%EC%A6%9D.ipynb#32-loocv)
+      - [3.3 임의 분할 교차 검증](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_1_%EA%B5%90%EC%B0%A8_%EA%B2%80%EC%A6%9D.ipynb#33-임의-분할-교차-검증)
+      - [3.4 그룹별 교차 검증](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_1_%EA%B5%90%EC%B0%A8_%EA%B2%80%EC%A6%9D.ipynb#34-그룹별-교차-검증)
+    - [04 반복 교차 검증](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_1_%EA%B5%90%EC%B0%A8_%EA%B2%80%EC%A6%9D.ipynb#04-반복-교차-검증)
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
