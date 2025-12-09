@@ -189,6 +189,16 @@
       - [3.4 그룹별 교차 검증](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_1_%EA%B5%90%EC%B0%A8_%EA%B2%80%EC%A6%9D.ipynb#34-그룹별-교차-검증)
     - [04 반복 교차 검증](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_1_%EA%B5%90%EC%B0%A8_%EA%B2%80%EC%A6%9D.ipynb#04-반복-교차-검증)
 
+- **[05_2_그리드_서치.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb)**
+    - [01 간단한 그리드 서치](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#01-간단한-그리드-서치)
+    - [02 매개변수 과대적합과 검증 세트](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#02-매개변수-과대적합과-검증-세트)
+    - [03 교차 검증을 사용한 그리드 서치](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#03-교차-검증을-사용한-그리드-서치)
+      - [3.1 교차 검증 결과 분석](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#31-교차-검증-결과-분석)
+      - [3.2 비대칭 매개변수 그리드 탐색](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#32-비대칭-매개변수-그리드-탐색)
+      - [3.3 그리드 서치에 다양한 교차 검증 적용](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#33-그리드-서치에-다양한-교차-검증-적용)
+        - [중첩 교차 검증](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#중첩-교차-검증)
+        - [교차 검증과 그리드 서치 병렬화](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#교차-검증과-그리드-서치-병렬화)
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
