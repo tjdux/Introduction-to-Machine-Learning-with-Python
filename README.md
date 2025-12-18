@@ -198,6 +198,8 @@
       - [3.3 그리드 서치에 다양한 교차 검증 적용](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#33-그리드-서치에-다양한-교차-검증-적용)
         - [중첩 교차 검증](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#중첩-교차-검증)
         - [교차 검증과 그리드 서치 병렬화](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#교차-검증과-그리드-서치-병렬화)
+    - [04 RandomizedSearchCV](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#04-randomizedsearchcv)
+    - [05 HalvingGridSearchCV](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#05-halvinggridsearchcv)
 
 ## 📝 Markdown Notes
 
