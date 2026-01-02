@@ -201,6 +201,20 @@
     - [04 RandomizedSearchCV](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#04-randomizedsearchcv)
     - [05 HalvingGridSearchCV](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_2_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#05-halvinggridsearchcv)
 
+- **[05_3_평가_지표와_측정.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb)**
+    - [01 최종 목표를 기억하라](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#01-최종-목표를-기억하라)
+    - [02 이진 분류의 평가 지표](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#02-이진-분류의-평가-지표)
+      - [2.1 에러의 종류](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#21-에러의-종류)
+      - [2.2 불균형 데이터셋](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#22-불균형-데이터셋)
+      - [2.3 오차 행렬 (confusion matrix)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#23-오차-행렬-confusion-matrix)
+        - [오차 행렬 정보 요약](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#오차-행렬-정보-요약)
+        - [정확도와의 관계](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#정확도와의-관계)
+        - [정밀도, 재현율, f-점수](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#정밀도-재현율-f-점수)
+          - [정밀도 (precision)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#정밀도-precision)
+          - [재현율 (recall)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#재현율-recall)
+          - [f-점수 (f-score)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#f-점수-f-score)
+          - [`classification_report()`](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#classification_report)
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
