@@ -214,6 +214,11 @@
           - [재현율 (recall)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#재현율-recall)
           - [f-점수 (f-score)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#f-점수-f-score)
           - [`classification_report()`](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#classification_report)
+      - [2.4 불확실성 고려](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#24-불확실성-고려)
+      - [2.5 정밀도-재현율 곡선과 ROC 곡선](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#25-정밀도-재현율-곡선과-roc-곡선)
+        - [`PrecisionRecallDisplay`](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#precisionrecalldisplay)
+        - [ROC와 AUC](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#roc와-auc)
+        - [`RocCurveDisplay`](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#roccurvedisplay)
 
 ## 📝 Markdown Notes
 
