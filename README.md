@@ -219,6 +219,9 @@
         - [`PrecisionRecallDisplay`](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#precisionrecalldisplay)
         - [ROC와 AUC](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#roc와-auc)
         - [`RocCurveDisplay`](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#roccurvedisplay)
+    - [03 다중 분류의 평가 지표](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#03-다중-분류의-평가-지표)
+    - [04 회귀의 평가 지표](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#04-회귀의-평가-지표)
+    - [05 모델 선택에서 평가 지표 사용하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#05-모델-선택에서-평가-지표-사용하기)
 
 ## 📝 Markdown Notes
 
