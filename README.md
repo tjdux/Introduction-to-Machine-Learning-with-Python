@@ -227,6 +227,9 @@
 
 - **[06_2_파이프라인_구축하기.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_2_%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8_%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.ipynb)**
 
+- **[06_3_그리드_서치에_파이프라인_적용하기.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_3_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98%EC%97%90_%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.ipynb)**
+    - [정보 누설에 대한 예시](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_3_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98%EC%97%90_%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.ipynb#정보-누설에-대한-예시)
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
