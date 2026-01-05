@@ -225,6 +225,8 @@
 
 - **[06_1_데이터_전처리와_매개변수_선택.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_1_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC%EC%99%80_%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98_%EC%84%A0%ED%83%9D.ipynb)**
 
+- **[06_2_파이프라인_구축하기.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_2_%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8_%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.ipynb)**
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
