@@ -223,6 +223,8 @@
     - [04 회귀의 평가 지표](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#04-회귀의-평가-지표)
     - [05 모델 선택에서 평가 지표 사용하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/05_3_%ED%8F%89%EA%B0%80_%EC%A7%80%ED%91%9C%EC%99%80_%EC%B8%A1%EC%A0%95.ipynb#05-모델-선택에서-평가-지표-사용하기)
 
+- **[06_1_데이터_전처리와_매개변수_선택.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_1_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC%EC%99%80_%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98_%EC%84%A0%ED%83%9D.ipynb)**
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
