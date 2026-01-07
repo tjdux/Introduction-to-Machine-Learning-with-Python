@@ -235,6 +235,8 @@
     - [02 단계 속성에 접근하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_4_%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.ipynb#02-단계-속성에-접근하기)
     - [03 그리드 서치 안의 파이프라인 속성에 접근하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_4_%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.ipynb#03-그리드-서치-안의-파이프라인-속성에-접근하기)
 
+- **[06_5_전처리와_모델의_매개변수를_위한_그리드_서치.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_5_%EC%A0%84%EC%B2%98%EB%A6%AC%EC%99%80_%EB%AA%A8%EB%8D%B8%EC%9D%98_%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb)**
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
