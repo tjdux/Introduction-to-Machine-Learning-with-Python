@@ -237,6 +237,9 @@
 
 - **[06_5_전처리와_모델의_매개변수를_위한_그리드_서치.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_5_%EC%A0%84%EC%B2%98%EB%A6%AC%EC%99%80_%EB%AA%A8%EB%8D%B8%EC%9D%98_%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb)**
 
+- **[06_6_모델_선택을_위한_그리드_서치.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_6_%EB%AA%A8%EB%8D%B8_%EC%84%A0%ED%83%9D%EC%9D%84_%EC%9C%84%ED%95%9C_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb)**
+      - [01 중복 계산 피하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_6_%EB%AA%A8%EB%8D%B8_%EC%84%A0%ED%83%9D%EC%9D%84_%EC%9C%84%ED%95%9C_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#01-중복-계산-피하기)
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
