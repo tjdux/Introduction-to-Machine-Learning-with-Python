@@ -257,3 +257,9 @@
     - [군집 알고리즘 (clustering)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03-1%20%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5%EC%9D%98%20%EC%A2%85%EB%A5%98.md#군집-알고리즘-clustering)
 
 - **[03-2 비지도 학습의 도전 과제.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/03-2%20%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5%EC%9D%98%20%EB%8F%84%EC%A0%84%20%EA%B3%BC%EC%A0%9C.md)**
+
+- **[07_1_문자열 데이터 타입.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_1_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)**
+    - [범주형 데이터](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_1_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md#범주형-데이터)
+    - [범주에 의미를 연결시킬 수 있는 임의의 문자열](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_1_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md#범주에-의미를-연결시킬-수-있는-임의의-문자열)
+    - [구조화된 문자열 데이터](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_1_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md#구조화된-문자열-데이터)
+    - [텍스트 데이터](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_1_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md#텍스트-데이터)
