@@ -240,6 +240,13 @@
 - **[06_6_모델_선택을_위한_그리드_서치.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_6_%EB%AA%A8%EB%8D%B8_%EC%84%A0%ED%83%9D%EC%9D%84_%EC%9C%84%ED%95%9C_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb)**
       - [01 중복 계산 피하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/06_6_%EB%AA%A8%EB%8D%B8_%EC%84%A0%ED%83%9D%EC%9D%84_%EC%9C%84%ED%95%9C_%EA%B7%B8%EB%A6%AC%EB%93%9C_%EC%84%9C%EC%B9%98.ipynb#01-중복-계산-피하기)
 
+- **[07_2_텍스트_데이터_다루기.ipynb](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb)**
+    - [01 예제 애플리케이션: 영화 리뷰 감성 분석](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#01-예제-애플리케이션-영화-리뷰-감성-분석)
+    - [02 텍스트 데이터를 BOW로 표현하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#02-텍스트-데이터를-bow로-표현하기)
+      - [2.1 샘플 데이터에 BOW 적용하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#21-샘플-데이터에-bow-적용하기)
+      - [2.2 영화 리뷰에 대한 BOW](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#22-영화-리뷰에-대한-bow)
+        - [2.2.1 단어 추출 방법 개선](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#221-단어-추출-방법-개선)
+
 ## 📝 Markdown Notes
 
 - **[02-1 분류와 회귀.md](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/02-1%20%EB%B6%84%EB%A5%98%EC%99%80%20%ED%9A%8C%EA%B7%80.md)**
