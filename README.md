@@ -246,6 +246,9 @@
       - [2.1 샘플 데이터에 BOW 적용하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#21-샘플-데이터에-bow-적용하기)
       - [2.2 영화 리뷰에 대한 BOW](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#22-영화-리뷰에-대한-bow)
         - [2.2.1 단어 추출 방법 개선](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#221-단어-추출-방법-개선)
+    - [03 불용어](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#03-불용어)
+    - [04 tf-idf로 데이터 스케일 변경하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#04-tf-idf로-데이터-스케일-변경하기)
+    - [05 모델 계수 조사](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#05-모델-계수-조사)
 
 ## 📝 Markdown Notes
 
