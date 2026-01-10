@@ -249,6 +249,11 @@
     - [03 불용어](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#03-불용어)
     - [04 tf-idf로 데이터 스케일 변경하기](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#04-tf-idf로-데이터-스케일-변경하기)
     - [05 모델 계수 조사](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#05-모델-계수-조사)
+    - [06 여러 단어로 만든 BOW(n-그램)](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#06-여러-단어로-만든-bown-그램)
+    - [07 고급 토큰화, 어간 추출, 표제어 추출](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#07-고급-토큰화-어간-추출-표제어-추출)
+      - [7.1 KoNLPy를 사용한 영화 리뷰 분석](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#71-konlpy를-사용한-영화-리뷰-분석)
+    - [08 토픽 모델링과 문서 군집화](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#08-토픽-모델링과-문서-군집화)
+      - [8.1 LDA](https://github.com/tjdux/Introduction-to-Machine-Learning-with-Python/blob/main/07_2_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb#81-lda)
 
 ## 📝 Markdown Notes
 
